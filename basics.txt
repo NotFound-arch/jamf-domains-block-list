@@ -23,3 +23,5 @@
 ||deviceenrollment.apple.com^
 ||mdmenrollment.apple.com^
 ||jamf.build^
+||edns.wandera.com^
+||www.jamfroutines.com^
