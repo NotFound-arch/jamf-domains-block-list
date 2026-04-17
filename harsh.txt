@@ -25,12 +25,9 @@
 ||jamfschool.com^
 ||deviceenrollment.apple.com^
 ||mdmenrollment.apple.com^
-||apple.com^
 ||push.apple.com^
 ||gateway.push.apple.com^
 ||api.push.apple.com^
-||apps.apple.com^
-||itunes.apple.com^
 ||mzstatic.com^
 ||vpp.apple.com^
 ||ocsp.apple.com^
